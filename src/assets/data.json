@@ -1,0 +1,118 @@
+{
+  "books":[
+      [
+          {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "price": 10.99,
+            "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471173936/the-great-gatsby-9781471173936_hr.jpg"
+          }, {
+            "title": "The Adventures of Sherlock Holmes",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "price": 100.99,
+            "image": "http://almabooks.com/wp-content/uploads/2016/10/9781847496164.jpg"
+          },
+          {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classics",
+            "price": 12.99,
+            "image": "https://cdn2.penguin.com.au/covers/original/9781785151552.jpg"
+          },
+          {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian",
+            "price": 9.99,
+            "image": "https://i.thenile.io/r1000/9780452262935.jpg?r=5e7d61110b596"
+          },
+          {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Fiction",
+            "price": 11.99,
+            "image": "https://i1.wp.com/bookstoker.com/wp-content/uploads/2019/03/The-Catcher-in-the-Rye-by-J.D.-Salinger.jpeg?fit=1089%2C1600&ssl=1"
+          },
+          {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy",
+            "price": 14.99,
+            "image": "https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/61/d0/b3/61d0b322-414b-a7ba-dfdc-4c4a0e4663ad/source/900x900bb.jpg"
+          },
+          {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "price": 13.99,
+            "image": "https://i1.wp.com/voicesfilm.com/wp-content/uploads/2014/01/TheHobbit_TDOS_Bilbo_DOM_RGB_1600x2333.jpg?resize=1600%2C2333"
+          },
+          {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Classics",
+            "price": 10.99,
+            "image": "https://flxt.tmsimg.com/assets/p159494_p_v10_ag.jpg"
+          },
+          {
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "price": 19.99,
+            "image": "https://www.themoviedb.org/t/p/original/dNsEaafO4huvqzVrlPuSQWIHOy0.jpg"
+          },
+          {
+            "title": "The Hunger Games",
+            "author": "Suzanne Collins",
+            "genre": "Dystopian",
+            "price": 8.99,
+            "image": "http://4.bp.blogspot.com/-U2mdprflN-w/VgxrrvbSwRI/AAAAAAAAREg/Qu7dGddFQM0/s1600/The%2BHunger%2BGames.jpg"
+          },
+          {
+            "title": "The Da Vinci Code",
+            "author": "Dan Brown",
+            "genre": "Mystery",
+            "price": 15.99,
+            "image": "https://www.themoviedb.org/t/p/original/tYXOOkDxJ7jSvUX5j1Hbks1GjBZ.jpg"
+          },
+          {
+            "title": "The Shining",
+            "author": "Stephen King",
+            "genre": "Horror",
+            "price": 11.99,
+            "image": "https://www.themoviedb.org/t/p/original/z85FBLwtYp452O6wEzDvocXIJG9.jpg"
+          },
+          {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian",
+            "price": 12.99,
+            "image": "https://cdn2.penguin.com.au/covers/original/9781784876258.jpg"
+          },
+          {
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "genre": "Fantasy",
+            "price": 9.99,
+            "image": "https://dailytimes.com.pk/assets/uploads/2021/07/06/the-alchemist-a-graphic-novel-1017x1536.jpg"
+          },
+          {
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "genre": "Post-apocalyptic",
+            "price": 14.99,
+            "image": "https://images.thenile.io/r1000/9780330468466.jpg"
+          },
+          {
+            "title": "Moby-Dick",
+            "author": "Herman Melville",
+            "genre": "Classics",
+            "price": 13.99,
+            "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781681778488/moby-dick-9781681778488_hr.jpg"
+          }
+        ]
+        
+      ]
+  }
